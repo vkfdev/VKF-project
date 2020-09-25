@@ -14,7 +14,7 @@ The detailed department consists of a development team and legal team and commun
 
 <br>
 <b> Web Site </b> : http://empt.dev <br/>
-<b> White Paper(korean) </b> : https://vkfs.io/whitepaper_kr.pdf
+<b> White Paper(korean)  </b> : https://vkfs.io/whitepaper_kr.pdf<br/>
 <b> White Paper(chinese) </b> : https://vkfs.io/whitepaper_cn.pdf<br/>
 <b> White Paper(english) </b> : https://vkfs.io/whitepaper_en.pdf<br/>
 
